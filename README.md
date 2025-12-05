@@ -3,7 +3,7 @@
 This repository contains CS50 course assignments and mini-projects.
 
 ## 1. Week0 - Scratch Project
-  **Bottle Shooter** — folder: `bottle-shooter/`  
+  **Bottle Shooter** — folder: `Week0-Scratch-Bottle Shooter/`  
   Short description: A simple arcade game built in Scratch.
   ## How to run
   1. Download `.sb3` file from the project folder.
